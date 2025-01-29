@@ -1,1 +1,1 @@
-# first_Game_Python
+Запускать её нужно через PyCharm
